@@ -3,4 +3,5 @@ I am working on building an All in One Bash Script Package which will help you a
 
 
 **System:**
+
 CPU Details
